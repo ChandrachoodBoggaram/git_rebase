@@ -6,3 +6,4 @@ rmdir
 rm
 free
 top
+df -h
